@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\bin\Debug\net5.0\КП5.exe
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\bin\Debug\net5.0\КП5.deps.json
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\bin\Debug\net5.0\КП5.runtimeconfig.json
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\bin\Debug\net5.0\КП5.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\bin\Debug\net5.0\КП5.dll
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\bin\Debug\net5.0\ref\КП5.dll
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\bin\Debug\net5.0\КП5.pdb
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\obj\Debug\net5.0\КП5.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\obj\Debug\net5.0\КП5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\obj\Debug\net5.0\КП5.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\obj\Debug\net5.0\КП5.AssemblyInfo.cs
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\obj\Debug\net5.0\КП5.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\obj\Debug\net5.0\КП5.dll
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\obj\Debug\net5.0\ref\КП5.dll
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\obj\Debug\net5.0\КП5.pdb
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Теорія алгоритмів\КП5\obj\Debug\net5.0\КП5.genruntimeconfig.cache
